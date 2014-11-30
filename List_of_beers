@@ -1,0 +1,39 @@
+BEER LIST
+name, description1, description2, brewery_name
+
+Barley, sweet, dark, Barley Brewery
+Barley Ale, sweet, dark, Barley Brewery
+Barley Wine, bitter, dark, Barley Brewery
+Hops, bitter, dark, Hops House
+Hop On, bitter, light, Hops House
+Hop Off, sweet, light, Hops House
+HopIPA, bitter, light, Hops House
+Wheat, fruity, light, The Mill
+Rye, bitter, dark, The Mill
+Bear, bitter, dark, My Bear
+Gummy Bear Ale, sweet, light, My Bear
+Koala, bitter, light, My Bear
+Bear Witty, fruity, light, My Bear
+Bearter, bitter, dark, My Bear
+Kitty, fruity, light, Cat Fur Brew
+Simon's Cat, sweet, light, Cat Fur Brew
+Catcat IPA, bitter, light, Cat Fur Brew
+Fur AIPA, bitter, light, Cat Fur Brew
+Rocket Raccoon, bitter, light, Marvel Brew
+Captain America, sweet, dark, Marvel Brew
+Hulk, bitter, dark, Marvel Brew
+Groot, bitter, dark, Marvel Brew
+Wolverine, bitter, dark, Marvel Brew
+Gamora, sweet, light, Marvel Brew
+Thor, bitter, light, Marvel Brew
+Python, fruity, dark, Geek's Den
+Anaconda, sweet, dark, Geek's Den
+Cobra, bitter, dark, Geek's Den
+Parrot PIPA, bitter, light, Bird's Nest
+Sparrow Barley Wine, fruity, dark, Bird's Nest
+Swan Witbier, fruity, light, Bird's Nest
+Hawk AIPA, bitter, light, Bird's Nest
+Falcon Pils, bitter, light, Bird's Nest
+Owl Rye Stout, bitter, dark, Bird's Nest
+Bald Eagle Kriek, fruity, light, Bird's Nest
+
