@@ -1,0 +1,10 @@
+__author__ = 'Koala'
+x = "There are %d images on the wall." % 20
+im_from_Aus = "images from Australia"
+im_from_Wen = "images from Wenezuela"
+
+y = "Out of the %d images, There are " % 20
+
+print(x)
+print(y)
+print(y, %d, im_from_Aus, "and ", %d, im_from_Wen) % (10, 10)
