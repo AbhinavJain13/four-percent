@@ -1,0 +1,15 @@
+#  I learnt two methods of printing the contents of the file (see below):
+
+#  Method 1
+
+with open("C:\Documents and Settings\Koalka\Pulpit\\four_percent files\list of beers.csv") as in_file:
+    text = in_file.read()
+
+print(text)
+
+#  Method 2
+f = open("C:\Documents and Settings\Koalka\Pulpit\\four_percent files\list of beers.csv")
+
+for line in f.readlines():
+    line = line.strip()
+    print(line)
