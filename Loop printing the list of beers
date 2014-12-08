@@ -4,7 +4,6 @@
 
 with open("C:\Documents and Settings\Koalka\Pulpit\\four_percent files\list of beers.csv") as in_file:
     text = in_file.read()
-
 print(text)
 
 #  Method 2
@@ -13,3 +12,7 @@ f = open("C:\Documents and Settings\Koalka\Pulpit\\four_percent files\list of be
 for line in f.readlines():
     line = line.strip()
     print(line)
+
+#  Method 3
+f = open("C:\Documents and Settings\Koalka\Pulpit\\four_percent files\list of beers.csv")
+print(f.read())
