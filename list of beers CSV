@@ -1,0 +1,37 @@
+name,description1,description2,brewery_name
+
+beer1,Barley,sweet,dark,Barley Brewery
+beer2,Barley Ale,sweet,dark,Barley Brewery
+beer3,Barley Wine,bitter,dark,Barley Brewery
+beer4,Hops,bitter,dark,Hops House
+beer5,Hop On,bitter,light,Hops House
+beer6,Hop Off,sweet,light,Hops House
+beer7,HopIPA,bitter,light,Hops House
+beer8,Wheat,fruity,light,The Mill
+beer9,Rye,bitter,dark,The Mill
+beer10,Bear,bitter,dark,My Bear
+beer11,Gummy Bear Ale,sweet,light,My Bear
+beer12,Koala,bitter,light,My Bear
+beer13,Bear Witty,fruity,light,My Bear
+beer14,Bearter,bitter,dark,My Bear
+beer15,Kitty,fruity,light,Cat Fur Brew
+beer16,Simon's Cat,sweet,light,Cat Fur Brew
+beer17,Catcat IPA,bitter,light,Cat Fur Brew
+beer18,Fur AIPA,bitter,light,Cat Fur Brew
+beer19,Rocket Raccoon,bitter,light,Marvel Brew
+beer20,Captain America,sweet,dark,Marvel Brew
+beer21,Hulk,bitter,dark,Marvel Brew
+beer22,Groot,bitter,dark,Marvel Brew
+beer23,Wolverine,bitter,dark,Marvel Brew
+beer24,Gamora,sweet,light,Marvel Brew
+beer25,Thor,bitter,light,Marvel Brew
+beer26,Python,fruity,dark,Geek's Den
+beer27,Anaconda,sweet,dark,Geek's Den
+beer28,Cobra,bitter,dark,Geek's Den
+beer29,Parrot PIPA,bitter,light,Bird's Nest
+beer30,Sparrow Barley Wine,fruity,dark,Bird's Nest
+beer31,Swan Witbier,fruity,light,Bird's Nest
+beer32,Hawk AIPA,bitter,light,Bird's Nest
+beer33,Falcon Pils,bitter,light,Bird's Nest
+beer34,Owl Rye Stout,bitter,dark,Bird's Nest
+beer35,Bald Eagle Kriek,fruity,light,Bird's Nest
