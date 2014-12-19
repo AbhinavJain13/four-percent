@@ -1,5 +1,3 @@
-name,description1,description2,brewery_name
-
 beer1,Barley,sweet,dark,Barley Brewery
 beer2,Barley Ale,sweet,dark,Barley Brewery
 beer3,Barley Wine,bitter,dark,Barley Brewery
@@ -34,4 +32,4 @@ beer31,Swan Witbier,fruity,light,Bird's Nest
 beer32,Hawk AIPA,bitter,light,Bird's Nest
 beer33,Falcon Pils,bitter,light,Bird's Nest
 beer34,Owl Rye Stout,bitter,dark,Bird's Nest
-beer35,Bald Eagle Kriek,fruity,light,Bird's Nest
+beer35,Bald Eagle Kriek,fruity,light,Bird's Nest 
