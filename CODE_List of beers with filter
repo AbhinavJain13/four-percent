@@ -1,14 +1,8 @@
-__author__ = 'Koala'
-
 rows=[]
 yes = False
-user_input1 = "a"
-user_input2 = ""
-user_input3 = ""
-user_input4 = ""
 
 def sil(line):
-    """a function that transforms strings into a list separated by commas"""
+    #    a function that transforms strings into a list separated by commas
 
     list1 = []
     field = ""
@@ -25,7 +19,7 @@ def sil(line):
     return list1
 
 def list_of_beers():
-   #   rows = []
+   #    a function that appends results of the sil(line) function to the empty list rows[]
     lob = open("c:\Documents and Settings\Koalka\Pulpit\\four_percent files\list of beers.csv", 'r')
 
 
@@ -33,11 +27,7 @@ def list_of_beers():
         rows.append(sil(line))
 
 def questions():
-    #  This function asks user to select filters.
-    global user_input1
-    global user_input2
-    global user_input3
-    global user_input4
+    #    a function that asks users to select filters and returns the output.
 
     print("Select beer name:")
     user_input1 = input()
@@ -55,20 +45,14 @@ def questions():
     user_input4 = input()
     print("Your selection is", user_input4 + ".")
 
-
+    return (user_input1, user_input2, user_input3, user_input4)
 
 
 
 list_of_beers()
+#  a function that evaluates user input, prints it to verify it has been read correctly, and provides feedback to the user.
 
-#  print(len(rows))
-#  print (rows)
-
-#  The below section retrieves user input, prints it to verify it has been read correctly
-# and then evaluates our list of beers, printing only the sublists which contain the desired brewery name
-
-
-questions()
+(user_input1, user_input2, user_input3, user_input4) = questions()
 
 for beer in rows:
 
@@ -85,10 +69,3 @@ for beer in rows:
 if yes == False:
     print("Sorry, no results!")
     questions()
-
-
-
-
-
-
-
